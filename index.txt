@@ -1,2 +1,5 @@
 línea de texto 1
 línea de texto 2
+
+esta es otra línea de código
+y por aquí otro código agregado
